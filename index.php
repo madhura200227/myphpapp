@@ -13,6 +13,7 @@
     <?php
         echo "<h2>PHP is working successfully!</h2>";
         echo "<p>Current date and time: " . date("d-m-Y h:i:s A") . "</p>";
+        echo "<p>version : 0.1";
     ?>
 
 </body>
